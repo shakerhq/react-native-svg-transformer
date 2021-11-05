@@ -6,7 +6,6 @@
   "repository": "https://github.com/kristerkari/react-native-svg-transformer",
   "scripts": {
     "release": "npmpub",
-    "precommit": "lint-staged",
     "test": "eslint ."
   },
   "author": "Krister Kari",
